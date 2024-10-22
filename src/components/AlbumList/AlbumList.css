@@ -1,0 +1,28 @@
+/* AlbumList.css */
+.container {
+  margin-top: 50px !important;
+    width: 80%;
+    margin: 0 auto; /* Center the container */
+    padding: 20px;
+    background-color: #f9f9f9; /* Light background */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  }
+  
+  .listDiv {
+    list-style-type: none; /* Remove default bullet points */
+    padding: 0;
+  }
+  
+  .listItem {
+    padding: 10px 0; /* Spacing between list items */
+    font-size: 18px;
+    /* color: #333; Dark text color */
+    font-family: 'Arial', sans-serif; /* Font style */
+    border-bottom: 1px solid #ddd; /* Line between items */
+  }
+  
+  .listItem:last-child {
+    border-bottom: none; /* Remove bottom border for the last item */
+  }
+  

@@ -1,0 +1,14 @@
+/* NavBar.css */
+.navDiv {
+    background-color: #4CAF50; /* Green background */
+    padding: 10px; /* Padding for the navbar */
+    text-align: center; /* Center the text */
+  }
+  
+  .heading {
+    /* color: white; White text color */
+    font-size: 24px; /* Font size */
+    font-family: 'Arial', sans-serif; /* Font style */
+    margin: 0; /* Remove margin */
+  }
+  
